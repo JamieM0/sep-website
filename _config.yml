@@ -1,3 +1,2 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
+theme: minimal-mistakes-jekyll
 - jekyll-remote-theme
